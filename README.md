@@ -42,8 +42,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
