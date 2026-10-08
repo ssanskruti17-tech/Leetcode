@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/ssanskruti17-tech/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ssanskruti17-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0344-reverse-string](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ssanskruti17-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ssanskruti17-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
