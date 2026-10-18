@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0136-single-number](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/ssanskruti17-tech/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ssanskruti17-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ssanskruti17-tech/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
