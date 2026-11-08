@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -122,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ssanskruti17-tech/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
